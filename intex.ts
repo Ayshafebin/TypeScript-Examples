@@ -72,6 +72,15 @@ var vaar : pperson = {
     iuy : 'sds'
 }
 
+//Functions--------------------------------
+
+function getUsername(vaar:pperson){
+    return vaar.rty
+}
+getUsername(vaar)
+
+
+
 
 
 

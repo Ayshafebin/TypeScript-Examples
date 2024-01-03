@@ -1,4 +1,4 @@
-// Inference types--------------
+// Inference types-----------Implicit-----------
 
 // var userName = 'Aysha';
 // userName = 0 ==== idh error kanikkum
@@ -6,7 +6,7 @@
 
 //Idhpoole bydefault aaytt ts nammukk type pararanj tharum.oro limit varee paranj tharollu.
 
-// Defaining type----Type Annotation------------------
+// Defaining type----Type Annotation----------explicit----------
 
 //idh type paranj kodth cheynadhaanu.
 
@@ -71,3 +71,7 @@ var vaar : pperson = {
     rty : 7888,
     iuy : 'sds'
 }
+
+
+
+

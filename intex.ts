@@ -74,10 +74,10 @@ var vaar : pperson = {
 
 //Functions--------------------------------
 
-function getUsername(vaar:pperson){
+function display(vaar:pperson){
     return vaar.rty
 }
-getUsername(vaar)
+display(vaar)
 
 
 
